@@ -8,6 +8,6 @@
 <Label>
 
 
-<img src= "https://developer.android.com/static/codelabs/basic-android-kotlin-training-dice-roller-images/img/c7f0d42525da7431_856.png?hl=pt-br" width= 20% height = 20%><br>
+<img src= "[https://developer.android.com/static/codelabs/basic-android-kotlin-training-dice-roller-images/img/c7f0d42525da7431_856.png?hl=pt-br](https://developer.android.com/static/codelabs/basic-android-kotlin-training-dice-roller-images/img/c7f0d42525da7431_856.png?hl=pt-br)" width= 20% height = 20%><br>
 
 <h2>Aprenda também em: </h2><h3>https://developer.android.com/courses/android-basics-kotlin/course</h3>
